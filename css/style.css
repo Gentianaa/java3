@@ -3264,4 +3264,10 @@ fieldset.input input[type="submit"]:hover {
 		float: none;
 		width:100%;
 	}
+	
+	-------------------
+	.section-title.firstT {
+    border-color: #e67e22;
+	}
+	
 }
